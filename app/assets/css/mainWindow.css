@@ -1,0 +1,53 @@
+body {
+  /*background-color: #2f3241;*/
+}
+
+.sideBar {
+  background-color: #2b2e3b;
+  height: 100%;
+}
+
+.mainWindow {
+  background-color: #2f3241;
+  height: 100%;
+}
+
+.inputMessage {
+  width: 100%;
+  height: 5%;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.displayChat {
+  width: 100%;
+}
+
+#blueText {
+  color: #87dbec
+}
+
+.chatHeader {
+  margin-top: 5px;
+  height: 10%;
+  border-bottom: 1px solid white;
+}
+
+.chatBody {
+  height: 75%;
+}
+
+.horizontalBlueLine {
+  background: #2b2e3b;
+  margin-top: 2px;
+}
+
+.chatMessage {
+	position: relative;
+	background: #88b7d5;
+  color: white;
+	border: 4px solid #c2e1f5;
+  width: 25%;
+}
